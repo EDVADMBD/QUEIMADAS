@@ -1,4 +1,5 @@
-# QUEIMADAS
+# QUEIMADAS ![que01](https://github.com/user-attachments/assets/772e7629-ff78-43f8-99bb-5dfa81f705e7)
+
 PROJETOS APRENDIZADO - Mapeamento de focos de incendios no brasil
 
 Documentação: Análise e Visualização de Focos de Incêndio no Brasil  com enfaze em  Minas Gerais e São Paulo
