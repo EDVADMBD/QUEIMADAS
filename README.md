@@ -1,4 +1,4 @@
-# QUEIMADAS (https://colab.research.google.com/github/EDVADMBD/QUEIMADAS/blob/main/NOTEBOOK_NAME.ipynb)
+# QUEIMADAS (https://colab.research.google.com/github/EDVADMBD/QUEIMADAS/blob/main/QUEIMADAS_2024.ipynb)
 ![que01](https://github.com/user-attachments/assets/f6d5787e-5810-437d-930d-8cf38053651d)
 
 
