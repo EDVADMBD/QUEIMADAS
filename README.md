@@ -18,6 +18,7 @@ matplotlib.pyplot: Utilizada para a criação de gráficos de dispersão.
 folium: Utilizada para a criação de mapas interativos.
 
 2. Funções Desenvolvidas
+   
 2.1. Função plot_fire_data_mg(fire_data) e plot_fire_data_sp(fire_data)
 Descrição:
 
