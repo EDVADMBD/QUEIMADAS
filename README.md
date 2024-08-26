@@ -32,7 +32,7 @@ As funções iteram sobre os dados dos focos de incêndio, extraindo as coordena
 Em seguida, utiliza-se a função plt.scatter para criar o gráfico de dispersão.
 O gráfico é configurado com um título, rótulos para os eixos, e uma grade para facilitar a visualização.
 
-Descrição:
+3. Descrição:
 
 As funções generate_fire_map_mg e generate_fire_map_sp são responsáveis por gerar um mapa interativo que exibe os focos de incêndio nos estados de Minas Gerais e São Paulo, respectivamente.
 Parâmetros:
