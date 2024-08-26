@@ -1,6 +1,5 @@
 # QUEIMADAS
-
-            ![que01](https://github.com/user-attachments/assets/f6d5787e-5810-437d-930d-8cf38053651d)
+![que01](https://github.com/user-attachments/assets/f6d5787e-5810-437d-930d-8cf38053651d)
 
 
 PROJETOS APRENDIZADO - Mapeamento de focos de incendios no brasil
