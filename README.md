@@ -1,5 +1,8 @@
 # QUEIMADAS 
 
+                        ![que01](https://github.com/user-attachments/assets/7b1ee083-b9ea-4a89-b3dc-9159523305aa)
+
+
 
     ![que01](https://github.com/user-attachments/assets/772e7629-ff78-43f8-99bb-5dfa81f705e7)
 
