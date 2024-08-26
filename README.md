@@ -1,4 +1,4 @@
-# QUEIMADAS (https://colab.research.google.com/github/EDVADMBD/QUEIMADAS/blob/main/QUEIMADAS_2024.ipynb)
+# QUEIMADAS 
 ![que01](https://github.com/user-attachments/assets/f6d5787e-5810-437d-930d-8cf38053651d)
 
 
@@ -47,3 +47,5 @@ Considerações Finais
 Os códigos desenvolvidos proporcionam uma maneira fácil e eficiente de visualizar focos de incêndio em Minas Gerais e São Paulo. A combinação de gráficos de dispersão e mapas interativos facilita a análise espacial e a tomada de decisões baseadas em dados geográficos.
 
 Essas ferramentas podem ser expandidas e adaptadas para outros estados ou regiões, conforme necessário.
+
+(https://colab.research.google.com/github/EDVADMBD/QUEIMADAS/blob/main/QUEIMADAS_2024.ipynb)
