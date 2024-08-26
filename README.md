@@ -4,8 +4,7 @@
 ![que01](https://github.com/user-attachments/assets/772e7629-ff78-43f8-99bb-5dfa81f705e7)
 
 PROJETOS APRENDIZADO - Mapeamento de focos de incendios no brasil
-
-Documentação: Análise e Visualização de Focos de Incêndio no Brasil  com enfaze em  Minas Gerais e São Paulo
+Análise e Visualização de Focos de Incêndio no Brasil  com enfaze em  Minas Gerais e São Paulo
 Introdução
 Esta documentação detalha o desenvolvimento de scripts em Python para análise e visualização de focos de incêndio nos estados de Minas Gerais e São Paulo. As ferramentas utilizadas incluem a biblioteca matplotlib para a criação de gráficos de dispersão e a biblioteca folium para a geração de mapas interativos.
 
